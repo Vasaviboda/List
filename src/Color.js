@@ -21,8 +21,9 @@ function State() {
   return (
     <>
       <center>
+      <h1>State of Colors</h1>
         <div className="container">
-          <h1>State of Colors</h1>
+          
       <button onClick={Green}>Add Green</button>
         <button onClick={Orange}>Add Orange</button>
         <br />
